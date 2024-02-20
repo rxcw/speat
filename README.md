@@ -1,6 +1,6 @@
 # Speat [ Fast-Food App ] 
 
-![Presentation](assets/presentation.png)
+![Presentation](https://github.com/rxcw/speat/blob/main/assets/images/presentation.png)
 
 ## Getting Started
 
