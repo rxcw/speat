@@ -15,7 +15,7 @@ git clone https://github.com/rxcw/speat.git
 **2. Navigate to the Project Directory:**
 
 ```bash
-git clone https://github.com/rxcw/speat.git
+cd speat
 ```
 
 **3. Install Dependencies:**
